@@ -3,7 +3,6 @@ Deep learning models for sentiment analysis of passengers tweets.
 
 
 Goal:
-
 Labeled tweets are clustered to groups that represent airport services. 
 Based on label of tweets under each service we can evaluate the services provided at airports.
 
