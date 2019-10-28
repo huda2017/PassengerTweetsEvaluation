@@ -1,10 +1,12 @@
 # PassengerTweetsEvaluation
 Deep learning models for sentiment analysis of passengers tweets. 
 
+
 Goal:
 
 Labeled tweets are clustered to groups that represent airport services. 
 Based on label of tweets under each service we can evaluate the services provided at airports.
+
 
 
 Models used:
@@ -15,6 +17,8 @@ LSTM
 
 In this work we devleoped two modles to predict sentimnet of passnger tweets written either in English or Arabic.
 Each model is trained twice: once with Englis data and the other with Arabic data
+
+
 
 
 Word Embedding:
