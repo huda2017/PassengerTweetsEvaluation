@@ -18,7 +18,7 @@ In this work we developed two models to predict sentiment of passenger tweets wr
 Word Embedding:
 
 Arabic: We train our own word embedding on more than 40 million Arabic tweets:
-https://drive.google.com/file/d/1-1SNUte6ypj7zmcgd0VK4difLs8UkoFb/view?usp=sharing
+https://drive.google.com/drive/folders/1kOO2BouDc_g__yjkvbzyg5zjhGOoGocf?usp=sharing
 
 
 English: We used the publicly available pre-trained word embedding model offered from Stanford University:
