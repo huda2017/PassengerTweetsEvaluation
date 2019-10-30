@@ -20,5 +20,6 @@ Word Embedding:
 Arabic: We train our own word embedding on more than 40 million Arabic tweets:
 https://drive.google.com/file/d/1-1SNUte6ypj7zmcgd0VK4difLs8UkoFb/view?usp=sharing
 
+
 English: We used the publicly available pre-trained word embedding model offered from Stanford University:
 https://nlp.stanford.edu/projects/glove/
