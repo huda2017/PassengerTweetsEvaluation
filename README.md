@@ -10,8 +10,7 @@ Based on label of tweets under each service we can evaluate the services provide
 
 Models used: CNN and LSTM
 
-In this work we devleoped two modles to predict sentimnet of passnger tweets written either in English or Arabic.
-Each model is trained twice: once with Englis data and the other with Arabic data
+In this work we developed two models to predict sentiment of passenger tweets written either in English or Arabic. Each model is trained twice: once with English data and the other with Arabic data.  
 
 
 
